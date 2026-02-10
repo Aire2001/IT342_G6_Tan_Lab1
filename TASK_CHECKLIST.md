@@ -1,12 +1,17 @@
-DONE
+**DONE**
 Backend
 - User registration endpoint
 - User login endpoint
 - JWT authentication
+
+**IN-PROGRESS**
+Mobile
+
+backend
 - Protected endpoints
 - Password encryption (BCrypt)
 - Database connection (MySQL)
-
+- 
 Web (ReactJS)
 - Register page with validation
 - Login page with authentication
@@ -17,10 +22,5 @@ Web (ReactJS)
 - Protected routes
 - Error handling
 - Responsive design
-
-
-IN-PROGRESS
-Mobile
-
 
 TODO 
